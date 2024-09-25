@@ -22,5 +22,6 @@ To explore the dynamic dashboard, please follow the link below:
 [View the Dynamic Dashboard](https://app.powerbi.com/view?r=eyJrIjoiODA3OGY3ODktMzE3OC00M2Q3LWIyMjUtZTg0MTkyZGI2OTczIiwidCI6IjY3ZDJkYjA2LTQ0YmQtNGMzMi1iN2Q5LTFhMjAyZjk4ZmM1YyIsImMiOjl9)
 
 
-Feel free to reach out with any questions or feedback!
+## Contact
+For further inquiries, feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/faiq-syed-7494b5197/).
 
